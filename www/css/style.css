@@ -1,0 +1,15 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    justify-content: left;
+    color: white;
+    background: linear-gradient(to right, rgb(125, 188, 32), rgb(52,21,203));
+    font-size: 20px;
+}
+
+div{
+    top: 20px;
+    left: 50px;
+    position: absolute;
+    /*transform: translate(-50%, -50%);
+}
